@@ -1,0 +1,15 @@
+
+  .fancy-button {
+    background-color: Blue;
+    padding: 5px;
+    color: white;
+  }
+
+  .fancy-button:hover{
+    color: red;
+  }
+
+  .fancy-button:active{
+    color: green;
+  }
+  /* Write your CSS here to make the span look like a button. */
